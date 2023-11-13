@@ -286,9 +286,26 @@ padding-bottom: 30px;
 .trend{
     font-size: 30px;
 }
+.phone{
+    background-color: green;
+    color: white;
+    padding:8px;
+    border-radius: 999px;
+}
+.watsapp{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(65, 103, 65);
+}
+.fourth{
+    display: flex;
+    justify-content: space-around;
+}
 @media screen and (max-width:480px){
     .third{
         display: block;
-        background-color: green;
+        background-color: rgb(64, 109, 51);
     }
 }
