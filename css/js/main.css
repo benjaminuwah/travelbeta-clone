@@ -289,16 +289,24 @@ padding-bottom: 30px;
 .phone{
     background-color: green;
     color: white;
-    padding:8px;
+    padding:10px;
     border-radius: 999px;
 }
 .watsapp{
+    color: white;
     display: flex;
     text-align: center;
+    width:15rem;
+    /* padding: 10px; */
+    border-radius: 5px;
     align-items: center;
     justify-content: center;
-    background-color: rgb(65, 103, 65);
+    background-color: rgb(5, 105, 64);
 }
+.help{
+
+}
+
 .fourth{
     display: flex;
     justify-content: space-around;
